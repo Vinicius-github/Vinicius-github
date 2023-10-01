@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://github.com/viniciuspassos771/first_repository/assets/140769822/95a0342b-5c69-4850-afea-5dcb6a7bd44e" width="200" />
+</p>
+
+
 - 👋 Hi, I’m @Vinicius-github
 - 👀 I’m interested in Ml, DS, MLOps, AI, LLM
 - 🌱 I’m currently learning LLM
