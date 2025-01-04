@@ -4,7 +4,7 @@
 
 
 - 👋 Hi, I’m Vinícius Passos
-- 👀 I’m interested in ML, DS, Analytics Engineer, MLOps, AI, LLM
+- 👀 I’m interested in ML, DS, Analytics, MLOps, AI, LLM
 - 🌱 I’m currently learning LLM
 - 💞️ I’m looking to collaborate on everything about Data Science
 - 📫 How to reach me Vinicius-github
